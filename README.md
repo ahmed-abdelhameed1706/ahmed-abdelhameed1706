@@ -12,11 +12,11 @@ Over the last 10 years, I've been on this rollercoaster of trying to crack the c
 *   🚀  I'm currently working on [Let's Chat MK - Chatting Application -](http://chat.eng-ahmed.me)
 *   🧠  I'm learning React, Nextjs
 *   🤝  I'm open to collaborating on basically anything backend related that will give me experience.
-*   ⚡  I have 3 cats, oldest is 8 years old. youngest is 1 year old and my favourite is the middle one, 4 years old.
+*   ⚡  I have 3 cats, oldest is 8 years old. youngest is 1 year old and my favourite is the middle one, 4 years old.  
 <a href="https://www.github.com/ahmed-abdelhameed1706" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/ahmed-abdelhameed1706?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/AJVHz" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/AJVHz?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>
+src="https://img.shields.io/github/followers/ahmed-abdelhameed1706?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/AJVHz" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/AJVHz?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
 
 ### Skills 
 <p align="left">
