@@ -1,8 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ahmed Abd El Hameed
 ===========================================================================================================================================
 
-Software Engineer
+Software Engineer 
 -----------------
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-abdelhameed1706&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-abdelhameed1706" /> </p>
+
+
+
+
 
 Over the last 10 years, I've been on this rollercoaster of trying to crack the code (literally!). It's been a wild ride with its fair share of ups and downs. But hey, guess what? The past two years have been a game-changer for me. I hopped onto the coding train, explored C, danced with Python, jammed with JavaScript, and guess where I landed? I've officially decided to dive headfirst into the world of backend software engineering. Super excited for this new chapter!
 
